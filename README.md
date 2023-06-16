@@ -1,0 +1,1 @@
+A simple JS script to generate a Ethereum private key.
