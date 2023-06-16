@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "crypto": "^1.0.1",
-    "ethers": "^6.6.0"
+    "crypto": "1.0.1",
+    "ethers": "6.6.0"
   }
 }
